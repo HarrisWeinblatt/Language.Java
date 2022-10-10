@@ -22,8 +22,8 @@ class Language{
   
 
     public static void main(String[] args) {
-Language spanish = new Language("Spanish", 555000000, "Spain, Latin America, and Equatorial Guinea", "subject-verb-object");
-spanish.getInfo();
+Language elvish = new Language("Elvish", 50000000, "Rivendell, Lothlorian, Shire", "subject-verb-object");
+elvish.getInfo();
 Mayan kiche = new Mayan("Ki'che'", 2330000);
 kiche.getInfo();
 SinoTibetan mandarin = new SinoTibetan("Mandarin Chinese", 1110000000);
